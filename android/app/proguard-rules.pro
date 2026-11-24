@@ -1,0 +1,2 @@
+-keep class dev.openhongguo.** { *; }
+-keep class dev.jdtech.mpv.** { *; }
